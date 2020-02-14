@@ -1,3 +1,3 @@
 # Modelagem-De-Dominios-Ricos 
 
-Projeto de conclusão do curso Modelagem de Dominios Ricos do https://balta.io/.
+Exemplo de projeto que implementa a Modelagem de Dominios Ricos
